@@ -1,3 +1,7 @@
+## Quick Links
+- [Project Overview PDF](./Lumi开放导盲机器人硬件计划.pdf)
+- [Recruiting](./RECRUITING.md)
+- [Collaboration Guidelines](./COLLABORATION.md)
 # Lumi 路明｜Open Collaborative Guide Robot Demo
 
 > If AI can have warmth, I hope it first warms the roads that some people cannot see.
