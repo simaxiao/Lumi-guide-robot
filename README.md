@@ -150,6 +150,20 @@ Lumi 当前采用 **开放共创、角色分层、边界清晰** 的合作方式
 - 包括盲协、公益组织、志愿者、测试支持方等
 - 帮助做真实场景验证和体验反馈
 
+## Contribution Recognition
+
+Lumi is an open collaborative project, and we believe real contributions should be visible and respected.
+
+At the current stage, contributions may be recognized in several ways:
+
+- GitHub commits, pull requests, issues, and discussions
+- Documentation, technical proposals, and design participation
+- Inclusion in contributor or supporter lists
+- Acknowledgement in milestone updates, demo releases, or public project materials
+
+For non-code contributors, such as supply chain partners,公益组织, content partners, and advisors, contributions may also be documented in dedicated project files or milestone notes.
+
+If the project moves into a more formal long-term stage in the future, sustained contribution records may become one of the important references for deeper participation.
 ---
 
 ## What You Can Expect
