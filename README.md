@@ -1,5 +1,6 @@
 ## Quick Links
-- [Project Overview PDF](./Lumi开放导盲机器人硬件计划.pdf)
+- [项目概述 PDF v1.0（中文）](./Lumi路明-项目概述-（机器人导盲杖）v1.0.pdf)
+- [Project Overview PDF (English)](./Lumi_Project_Overview-(Robotic-Guide-Cane).pdf)
 - [Recruiting](./RECRUITING.md)
 - [Collaboration Guidelines](./COLLABORATION.md)
 # Lumi 路明｜Open Collaborative Guide Robot Demo
